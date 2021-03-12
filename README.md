@@ -20,7 +20,7 @@ Sheriff (C) (v1.0) - The Sheriff has a kill button and their goal is to kill the
 
 Snitch (C) (v1.0) - The Snitch must complete all their tasks, which will create arrows that point towards the Impostors (they cannot tell who the Impostors are in meetings, nor will it color their names red). However, when the Snitch has one task left, Impostors will be notified of who the Snitch is, and also get an arrow that points to the Snitch.
 
-**Uses Reactor Essentials by DorCoMaNdO (https://github.com/DorCoMaNdO/Reactor-Essentials)
+**Uses Reactor Essentials by DorCoMaNdO (https://github.com/DorCoMaNdO/Reactor-Essentials)**
 
 Recommended Steps to Install:
 
